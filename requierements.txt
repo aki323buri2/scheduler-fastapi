@@ -1,0 +1,7 @@
+jupyterlab
+pandas
+numpy
+python-dateutil
+fastapi
+uvicorn[standard]
+apscheduler
